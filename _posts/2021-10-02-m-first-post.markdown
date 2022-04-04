@@ -11,5 +11,6 @@ src="https://tokbox.com/embed/embed/ot-embed.js?embedId=bea20fbf-9d83-4ba4-b509-
 width=800
 height=640
 scrolling="auto"
-allow="microphone; camera"></iframe>
+allow="microphone; camera">
+</iframe>
       
