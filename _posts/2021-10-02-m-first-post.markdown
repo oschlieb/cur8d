@@ -6,6 +6,11 @@ categories: M's Art
 ---
 
 
+<div id="otEmbedContainer" style="width:800px; height:640px">
+</div>
+<script src="https://tokbox.com/embed/embed/ot-embed.js?embedId=bea20fbf-9d83-4ba4-b509-5bdff2023c19&room=DEFAULT_ROOM">
+</script>
+
 <iframe
 src="https://tokbox.com/embed/embed/ot-embed.js?embedId=bea20fbf-9d83-4ba4-b509-5bdff2023c19&room=DEFAULT_ROOM&iframe=true"
 width=800
